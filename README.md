@@ -9,16 +9,18 @@ Objective
 To analyze sales, orders, customers, order status, sales by gender, channels and top-performing states using Excel.
 
 Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Excel Dashboard
+
+1- Microsoft Excel
+2- Pivot Tables
+3- Pivot Charts
+4- Slicers
+5- Excel Dashboard
 
 Dashboard Analysis
-Monthly Sales & Orders
-Sales by Gender
-Order Status
-Orders by Channel
-Top 5 States by Sales
-Orders by Age Group & Gender
+
+1- Monthly Sales & Orders
+2- Sales by Gender
+3- Order Status
+4- Orders by Channel
+5- Top 5 States by Sales
+6- Orders by Age Group & Gender
