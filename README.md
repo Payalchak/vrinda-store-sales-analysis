@@ -11,9 +11,13 @@ To analyze sales, orders, customers, order status, sales by gender, channels and
 Tools Used
 
 1- Microsoft Excel
+
 2- Pivot Tables
+
 3- Pivot Charts
+
 4- Slicers
+
 5- Excel Dashboard
 
 Dashboard Analysis
